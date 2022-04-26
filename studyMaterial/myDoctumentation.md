@@ -12,6 +12,10 @@
 >   * [Concept and uses for hooks](#hooks)
 >   * [Concept and uses for Commit](#Concept-and-uses-for-Commit)
 >   * [Concepts and uses for Branching Strategies and Flows](#Concepts-and-uses-for-Branching-Strategies-and-Flows)
+>   * [Concepts and uses Squash and Rebase](#Concepts-and-uses-for-Squash-and-Rebase)
+>   * [Difference between GIT Merge and GIT Rebase](#Difference-between-GIT-Merge-and-GIT-Rebase)
+
+
 
 
 ## If you want to know about these useful tools, check this link below:
