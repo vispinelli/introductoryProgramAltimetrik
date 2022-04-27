@@ -14,6 +14,7 @@
 >   * [Concepts and uses for Branching Strategies and Flows](#Concepts-and-uses-for-Branching-Strategies-and-Flows)
 >   * [Concepts and uses Squash and Rebase](#Concepts-and-uses-for-Squash-and-Rebase)
 >   * [Difference between GIT Merge and GIT Rebase](#Difference-between-GIT-Merge-and-GIT-Rebase)
+>   * [Concept of JavaScript Syntax and Basic Construct](#Concept-of-JavaScript-Syntax-and-Basic-Construct)
 
 
 
