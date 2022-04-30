@@ -15,6 +15,11 @@
 >   * [Concepts and uses Squash and Rebase](#Concepts-and-uses-for-Squash-and-Rebase)
 >   * [Difference between GIT Merge and GIT Rebase](#Difference-between-GIT-Merge-and-GIT-Rebase)
 >   * [Concept of JavaScript Syntax and Basic Construct](#Concept-of-JavaScript-Syntax-and-Basic-Construct)
+>   * [What is HTML?](#What-is-HTML?)
+>   * [What are Meta-Tags?](#What-are-Meta-Tags?)
+>   * [What are Input Types?](#What-are-Input-Types?)
+>   * [Difference between HTML and XHTML](#Difference-between-HTML-and-XHTML)
+
 
 
 
