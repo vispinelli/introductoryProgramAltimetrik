@@ -20,6 +20,10 @@
 >   * [What are Input Types?](#What-are-Input-Types?)
 >   * [Difference between HTML and XHTML](#Difference-between-HTML-and-XHTML)
 >   * [Concepts and uses for Data-Attributes](#Concepts-and-uses-for-Data-Attributes)
+>   * [Concepts and uses for Input-Types](#Concepts-and-uses-for-Input-Types)
+>   * [Concepts and uses for Accessibility](#Concepts-and-uses-for-Accessibility)
+>   * [Concepts and uses for Semantic-HTML](#Concepts-and-uses-for-Semantic-HTML)
+>   * [Concepts and uses for SEO and DOM](#Concepts-and-uses-for-SEO-and-DOM)
 
 
 
