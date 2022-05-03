@@ -24,6 +24,10 @@
 >   * [Concepts and uses for Accessibility](#Concepts-and-uses-for-Accessibility)
 >   * [Concepts and uses for Semantic-HTML](#Concepts-and-uses-for-Semantic-HTML)
 >   * [Concepts and uses for SEO and DOM](#Concepts-and-uses-for-SEO-and-DOM)
+>   * [CSS general knowledge](#CSS-general-knowledge)
+>   * [CSS Specificity](#CSS-Specificity)
+>   * [CSS Box Model](#CSS-Box-model)
+
 
 
 
