@@ -30,7 +30,7 @@
 >   * [JavaScript Hoisting](#JavaScript-Hoisting)
 >   * [JavaScript DOM](#JavaScript-DOM)
 >   * [JavaScript Scope](#JavaScript-Scope)
->   * [JavaScript Strict Mode](#JavaScript-Strict-Mode)
+>   * [Media Queries | px, em & rem](#Media-Queries-px-em-&-rem)
 
 
 
