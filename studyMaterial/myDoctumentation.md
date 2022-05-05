@@ -27,10 +27,13 @@
 >   * [CSS general knowledge](#CSS-general-knowledge)
 >   * [CSS Specificity](#CSS-Specificity)
 >   * [CSS Box Model](#CSS-Box-model)
+>   * [CSS Media Queries | px, em & rem](#Media-Queries-px-em-&-rem)
+>   * [CSS Layout | Positioning](#CSS-Layout-|-Positioning)
 >   * [JavaScript Hoisting](#JavaScript-Hoisting)
 >   * [JavaScript DOM](#JavaScript-DOM)
 >   * [JavaScript Scope](#JavaScript-Scope)
->   * [Media Queries | px, em & rem](#Media-Queries-px-em-&-rem)
+
+
 
 
 
