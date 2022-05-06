@@ -29,6 +29,7 @@
 >   * [CSS Box Model](#CSS-Box-model)
 >   * [CSS Media Queries | px, em & rem](#Media-Queries-px-em-&-rem)
 >   * [CSS Layout | Positioning](#CSS-Layout-|-Positioning)
+>   * [CSS Flexbox Layout | Grid Layout](#CSS-Flexbox-Layout-|-Grid-Layout) 
 >   * [JavaScript Hoisting](#JavaScript-Hoisting)
 >   * [JavaScript DOM](#JavaScript-DOM)
 >   * [JavaScript Scope](#JavaScript-Scope)
