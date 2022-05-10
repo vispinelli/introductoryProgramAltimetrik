@@ -36,6 +36,7 @@
 >   * [JavaScript Hoisting](#JavaScript-Hoisting)
 >   * [JavaScript DOM](#JavaScript-DOM)
 >   * [JavaScript Scope](#JavaScript-Scope)
+>   * [Fetch API | AJAX](#Fetch-API-AJAX)
 
 
 
