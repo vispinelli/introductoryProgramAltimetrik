@@ -37,6 +37,7 @@
 >   * [JavaScript DOM](#JavaScript-DOM)
 >   * [JavaScript Scope](#JavaScript-Scope)
 >   * [Fetch API | AJAX](#Fetch-API-AJAX)
+>   * [Cookies| Local Storage| Session Storage](#Cookies-|-Local-Storage-|-Session-Storage)
 
 
 
