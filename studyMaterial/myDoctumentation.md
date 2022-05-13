@@ -40,6 +40,7 @@
 >   * [Cookies| Local Storage| Session Storage](#Cookies-|-Local-Storage-|-Session-Storage)
 >   * [HTTP, it's Methods | Response Codes | Session Management](#HTTP-its-Methods-|-Response-Codes-|-Session-Management)
 >   * [HTTP 2.0 | HTTP 3.0](#HTTP-2.0-HTTP-|-3.0)
+>   * [Concept and Uses for HTTPS](#Concepts-and-Uses-for-HTTPS)
 
 
 
