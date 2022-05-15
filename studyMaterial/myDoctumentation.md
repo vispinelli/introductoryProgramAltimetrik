@@ -42,6 +42,7 @@
 >   * [HTTP 2.0 | HTTP 3.0](#HTTP-2.0-HTTP-|-3.0)
 >   * [Concept and Uses for HTTPS](#Concepts-and-Uses-for-HTTPS)
 >   * [CORS | JSONP](#CORS-|-JSONP)
+>   * [Json Web Tokens](#Json-Web-Tokens)
 
 
 
