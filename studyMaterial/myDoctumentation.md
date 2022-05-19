@@ -48,6 +48,7 @@
 >   * [OOP Concept](#OOP-Concept)
 >   * [OOP SOLID Principles](#OOP-SOLID-Principles)
 >   * [OOP Class | Inheritance | Prototype | Prototype Inheritance](#OOP-Class-|-Inheritance-|-Prototype-|-Prototype-Inheritance)
+>   * [Encapsulation | Polymorphism](#Encapsulation-|-Polymorphism)
 
 
 
