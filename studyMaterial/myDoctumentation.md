@@ -45,6 +45,8 @@
 >   * [Json Web Tokens](#Json-Web-Tokens)
 >   * [Single-Sign On | OAuth 2.0](#Single-Sign-On-Oauth-2-0)
 >   * [Events| Event Bubbling](#Events-Event-Bubbling)
+>   * [OOP Concept](#OOP-Concept)
+>   * [OOP SOLID Principles](#OOP-SOLID-Principles)
 
 
 
