@@ -52,6 +52,7 @@
 >   * [JS Closures](#Closures)
 >   * [OWASP and top 10 guidelines](#OWASP-and-top-10-guidelines)
 >   * [DoS| Denial Of Service](#DoS-|-Denial-Of-Service)
+>   * [Brute Force](#Brute Force)
 
 
 
