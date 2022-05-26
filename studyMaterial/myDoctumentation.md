@@ -52,7 +52,7 @@
 >   * [JS Closures](#Closures)
 >   * [OWASP and top 10 guidelines](#OWASP-and-top-10-guidelines)
 >   * [DoS| Denial Of Service](#DoS-|-Denial-Of-Service)
->   * [Brute Force](#Brute Force)
+>   * [Brute Force](#Brute-Force)
 >   * [Cross Site Scripting (XSS)](#Cross-Site-Scripting-XSS)
 >   * [Multi Factor Authentication (MFA))](#Multi-Factor-Authentication-(MFA))
 >   * [Validation](#Validation)
