@@ -57,6 +57,7 @@
 >   * [Multi Factor Authentication (MFA))](#Multi-Factor-Authentication-(MFA))
 >   * [Validation](#Validation)
 >   * [JS|Prototype](#JS-Prototype)
+>   * [JS|Promises](#JS-Promises)
 
 
 
