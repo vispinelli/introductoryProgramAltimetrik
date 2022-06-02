@@ -58,7 +58,7 @@
 >   * [Validation](#Validation)
 >   * [JS|Prototype](#JS-Prototype)
 >   * [JS|Promises](#JS-Promises)
-
+>   * [ES6+|Feature Improvements](#ES6+-|-Feature-Improvements)
 
 
 
